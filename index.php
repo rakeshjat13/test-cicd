@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello, Welcome to cicd setup";
+echo "<h3>Hello, Welcome to cicd setup</h3>";
 
 ?>
